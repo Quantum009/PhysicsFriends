@@ -1,0 +1,4 @@
+repository "PhysicsFriends@tj_wechat_os_qy08vyvu_3d7qhtcokfmsthqc@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5f1c0254cc6f415396fab55e2b1a880, type: 3}
+  m_Name: UOSEnvironments
+  m_EditorClassIdentifier: 
+  environments:
+  - environmentName: My project 2026-2-7 15:10:44
+    appID: 2a82002d-286e-4936-97cc-58a9892a82d8
+    appSecret: c5ec31e3be254fe792bf7f17fc70f203
+    appServiceSecret: 5b5265a186c94f21abbf1a9fd165d770
+    roomProfileUUID: 
+    matchmakingConfigID: 
+    configPairs: []
+  - environmentName: PhysicsFriends
+    appID: 9d9fd962-544a-4154-9cd4-e2ea7acff930
+    appSecret: e5ca3fe85c6b4a14b5c587bf2f571583
+    appServiceSecret: 1e8307d4155443aba1821cdd467266e2
+    roomProfileUUID: 
+    matchmakingConfigID: 
+    configPairs: []
+  selectedAppID: 9d9fd962-544a-4154-9cd4-e2ea7acff930
